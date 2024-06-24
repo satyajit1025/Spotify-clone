@@ -1,17 +1,17 @@
 # spotify-music player clone
 # Features
-1. User Interface (UI):
-  1.1. A visually appealing and responsive layout that resembles Spotify.
-  1.2. A navigation bar with links to Home, Search, and Library.
-  1.3. A footer with music controls (play, pause, next, previous, volume).
-2. Home Page
+1. User Interface (UI): 
+  A visually appealing and responsive layout that resembles Spotify.
+  A navigation bar with links to Home, Search, and Library.
+  A footer with music controls (play, pause, next, previous, volume).
+2. Home Page:
    Display of featured playlists and albums.
    Recommendations based on user preferences (static data).
-3. Music Player
+3. Music Player: 
    Play, pause, skip, and previous song controls.
    Volume control and mute/unmute functionality.
    A progress bar to show the current position of the song.    
-4. Responsive Design
+4. Responsive Design: 
    Ensure the application is usable on various devices (desktop, tablet, mobile).
 # Technologies Used
 1. HTML: For structuring the content of the web pages.
